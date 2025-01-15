@@ -16,7 +16,8 @@ IDE USED:
 should install "Windows.h" library.
 
 User Interface:
-![Screenshot (13)](https://github.com/user-attachments/assets/85a2d8ed-650c-47a6-aa2f-5d988f6bfdd3)
+![13](https://github.com/user-attachments/assets/faf5f3ee-438d-4211-b30b-05928eb8aaf3)
+
 
 How to Run:
 1. Open VS Code:
@@ -33,14 +34,18 @@ How to Run:
  Working:
 Add Member:
 Adds member to the membership
-![Screenshot (15)](https://github.com/user-attachments/assets/ebb86a86-b160-4fdd-8dd1-9a46de84ce63)
+![15](https://github.com/user-attachments/assets/8cdf3bc6-012b-4c06-ae14-277977e50728)
+
 Display Member:
 Shows details of Members:
-![Screenshot (16)](https://github.com/user-attachments/assets/f694818e-e44e-43b0-b577-2e6a28eb734f)
+![16](https://github.com/user-attachments/assets/42a0d80c-82a1-4db8-8ac1-6be432385b9d)
+
 Display Fitness Tracker:
-![Screenshot (18)](https://github.com/user-attachments/assets/f57fe058-76ed-42e7-9a19-0e5078625172)
+![18](https://github.com/user-attachments/assets/5a0d6ca6-e873-4ca1-9dd1-9c878aa214b3)
+
 Display Member Details:
-![Screenshot (19)](https://github.com/user-attachments/assets/98d15227-0a40-4799-98f5-d367ecc2e2c1)
+![19](https://github.com/user-attachments/assets/f0720f52-efa4-4a20-88aa-c068f1eb4cc3)
+
 
 
 
